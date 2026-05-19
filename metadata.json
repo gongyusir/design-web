@@ -1,0 +1,8 @@
+{
+  "name": "TALENTHUB - 创意设计作品集",
+  "description": "公羽sir的个人创意设计作品集，涵盖3D动画、平面设计与包装设计展示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
